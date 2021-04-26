@@ -7,7 +7,7 @@
 body {
   margin: 0px;
   font-family: 'EB Garamond', serif;
-
+  text-align:center;
 }
 
 span {
@@ -49,7 +49,7 @@ span {
 }
 
 .logo {
-  margin-left: 38%;
+/*   margin-left: 38%; */
   width: 25%;
   padding-top: 3%;
   padding-bottom: 3%;
@@ -346,9 +346,9 @@ font-size: 1rem;
     margin-left: %;
 }
 .explore{
-  margin-left: 46%;
+/*   margin-left: 46%; */
    /* text-align: center; */
-   align-items: center;
+/*    align-items: center; */
   margin-bottom: 10%;
   padding-top: 5px;
   padding-bottom: 5px;
